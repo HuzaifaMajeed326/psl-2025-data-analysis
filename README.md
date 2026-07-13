@@ -105,8 +105,8 @@ This project was completed as part of my Python Data Analysis learning journey. 
 
 ## 👤 Author
 
-**Huzaifa Majeed**
+** Huzaifa Majeed **
 
-**Aspiring Data Analyst**
+** Aspiring Data Analyst **
 
-**Skills:** Python | SQL | Power BI | Tableau | Advanced Excel 
+** Skills: ** Python | SQL | Power BI | Tableau | Advanced Excel 
