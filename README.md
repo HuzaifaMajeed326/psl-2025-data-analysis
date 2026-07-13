@@ -97,14 +97,16 @@ This project contains multiple charts and graphs to better understand:
 ```bash
 pip install -r requirements.txt
 
-**📚 Acknowledgement**
+## 📚 Acknowledgement
 
 This project was completed as part of my Python Data Analysis learning journey. It was developed using publicly available PSL data for educational and portfolio purposes.
 
+---
 
-** 👤 Author **
+## 👤 Author
+
 **Huzaifa Majeed**
 
-Aspiring Data Analyst
+**Aspiring Data Analyst**
 
-Python | SQL | Power BI | Tableau | Advance Excel 
+**Skills:** Python | SQL | Power BI | Tableau | Advanced Excel 
